@@ -1,0 +1,149 @@
+{
+   "BookRecommendation":[
+      {
+         "BookTitle":"Solo Leveling, Vol. 1",
+         "Author":"Chugong",
+         "Tags":"Manga, Adventure & Action, Fantasy",
+         "Paperbag":"$20.00",
+         "Pages":"320",
+         "ISBN13":"978-1975319434",
+         "BookImage":"https://github.com/jpoudel99/JSONProjectsIT315/blob/master/soloLeveling.jpg?raw=true",
+         "BookId":1,
+         "BookStore":"https://www.barnesandnoble.com/w/solo-leveling-vol-1-dubu-redice-studio/1137838733?ean=9781975319434",
+         "BookSummary":"Known as the the Weakest Hunter of All Mankind, E-rank hunter Jinwoo Sung’s contribution to raids amounts to trying not to get killed. \nUnfortunately, between his mother’s hospital bills, his sister’s tuition, and his own lack of job prospects, he has no choice but to continue to put his life on the line. So when an opportunity arises for a bigger payout, he takes it…only to come face-to-face with a being whose power outranks anything he’s ever seen! With the party leader missing an arm and the only healer a quivering mess, can Jinwoo somehow find them a way out?"
+      },
+      {
+         "BookTitle":"Attack on Titan, Vol. 1",
+         "Author":"Hajime Isayama",
+         "Tags":"Manga, Dystopian, Science Fiction",
+         "Paperbag":"$10.99",
+         "Pages":"208",
+         "ISBN13":"978-1612620244",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/attackOnTitan.jpg",
+         "BookId":2,
+         "BookStore":"https://www.barnesandnoble.com/w/attack-on-titan-volume-1-hajime-isayama/1130433132?ean=9781612620244",
+         "BookSummary":"In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. \nFor the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything."
+      },
+      {
+         "BookTitle":"Tokyo Ghoul, Vol. 1",
+         "Author":"Sui Ishida",
+         "Tags":"Manga, Horror, Fantasy",
+         "Paperbag":"$12.99",
+         "Pages":"224",
+         "ISBN13":"978-1421580364",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/tokyoGhoul.jpg",
+         "BookId":3,
+         "BookStore":"https://www.barnesandnoble.com/w/tokyo-ghoul-vol-1-sui-ishida/1120868598?ean=9781421580364",
+         "BookSummary":"Ghouls live among us, the same as normal people in every way—except their craving for human flesh.\nGhouls live among us, the same as normal people in every way—except their craving for human flesh.\nKen Kaneki is an ordinary college student until a violent encounter turns him into the first half-human half-ghoul hybrid. Trapped between two worlds, he must survive Ghoul turf wars, learn more about Ghoul society and master his new powers.\nShy Ken Kaneki is thrilled to go on a date with the beautiful Rize. But it turns out that she’s only interested in his body—eating it, that is. When a morally questionable rescue transforms him into the first half-human half-Ghoul hybrid, Ken is drawn into the dark and violent world of Ghouls, which exists alongside our own."
+      },
+      {
+         "BookTitle":"Kimetsu no Yaiba, Vol. 1",
+         "Author":"Koyoharu Gotouge",
+         "Tags":"Manga, Horror",
+         "Paperbag":"$9.99",
+         "Pages":"192",
+         "ISBN13":"978-1421582696",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/kimetsuNoYaiba.jpg",
+         "BookId":4,
+         "BookStore":"https://www.barnesandnoble.com/w/my-hero-academia-vol-1-kouhei-horikoshi/1121323430?ean=9781421582696",
+         "BookSummary":"Tanjiro sets out on the path of the Demon Slayer to save his sister and avenge his family! \nIn Taisho-era Japan, kindhearted Tanjiro Kamado makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family. His little sister Nezuko is the only survivor, but she has been transformed into a demon herself! Tanjiro sets out on a dangerous journey to find a way to return his sister to normal and destroy the demon who ruined his life.\nLearning to destroy demons won’t be easy, and Tanjiro barely knows where to start. The surprise appearance of another boy named Giyu, who seems to know what’s going on, might provide some answers—but only if Tanjiro can stop Giyu from killing his sister first!"
+      },
+      {
+         "BookTitle":"Spin the Dawn",
+         "Author":"Elizabeth Lim",
+         "Tags":"Young Adult, Fantasy, Romance",
+         "Paperbag":"$10.99",
+         "Pages":"432",
+         "ISBN13":"978-0593126028",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/spinTheDawn.jpg",
+         "BookId":5,
+         "BookStore":"https://www.barnesandnoble.com/w/spin-the-dawn-elizabeth-lim/1129805624?ean=9780593126028",
+         "BookSummary":"Maia Tamarin dreams of becoming the greatest tailor in the land, but as a girl, the best she can hope for is to marry well. When a royal messenger summons her ailing father, once a tailor of renown, to court, Maia poses as a boy and takes his place. She knows her life is forfeit if her secret is discovered, but she'll take that risk to achieve her dream and save her family from ruin. There's just one catch: Maia is one of twelve tailors vying for the job.\n Backstabbing and lies run rampant as the tailors compete in challenges to prove their artistry and skill. Maia's task is further complicated when she draws the attention of the court magician, Edan, whose piercing eyes seem to see straight through her disguise.\nAnd nothing can prepare her for the final challenge: to sew three magic gowns for the emperor's reluctant bride-to-be, from the laughter of the sun, the tears of the moon, and the blood of stars. With this impossible task before her, she embarks on a journey to the far reaches of the kingdom, seeking the sun, the moon, and the stars and finding more than she ever could have imagined."
+      },
+      {
+         "BookTitle":"The Cerulean",
+         "Author":"Amy Ewing",
+         "Tags":"Young Adult, Fantasy, Folklore",
+         "Paperbag":"$11.99",
+         "Pages":"512",
+         "ISBN13":"978-0062490001",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/theCeruleans.jpg",
+         "BookId":6,
+         "BookStore":"https://www.barnesandnoble.com/w/the-cerulean-amy-ewing/1127142945?ean=9780062490001",
+         "BookSummary":"Sera Lighthaven has always felt as if she didn’t quite belong among her people, the Cerulean, who live in the City Above the Sky. She is curious about everything—especially the planet that her City is magically tethered to—and can’t stop questioning things. Sera has always longed for the day when the tether will finally break and the Cerulean can move to a new planet.\nBut when Sera is chosen as the sacrifice to break the tether, she feels betrayed by everything in which she’d been taught to trust. In order to save her City, Sera must end her own life.\nBut something goes wrong, and Sera survives, ending up on the planet below in a country called Kaolin. Sera has heard tales about the dangerous humans who live here, and she quickly learns that these dangers were not just stories.\nMeanwhile, back in the City, all is not what it seems, and the life of every Cerulean may be in danger if Sera is not able to find a way home."
+      },
+      {
+         "BookTitle":"Crown of Bones",
+         "Author":"A.K. Wilder",
+         "Tags":"Fantasy, Adventure, Romance",
+         "Paperbag":"$9.99",
+         "Pages":"400",
+         "ISBN13":"978-1649371478",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/crownOfBones.jpg",
+         "BookId":7,
+         "BookStore":"https://www.barnesandnoble.com/w/crown-of-bones-ak-wilder/1131107288?ean=9781640634145",
+         "BookSummary":"Raise. Your. Phantom. \nIn a world on the brink of the next Great Dying, no amount of training can prepare us for what is to come...\nA young heir will raise the most powerful phantom in all of Baiseen. A dangerous High Savant will do anything to control the nine realms. A mysterious and deadly Mar race will steal children into the sea. And a handsome guide with far too many secrets will make me fall in love. \nMy name is Ash. A lowly scribe meant to observe and record. And yet I think I’m destined to surprise us all."
+      },
+	  {
+         "BookTitle":"Shadow and Bone, (Grisha Trilogy #1)",
+         "Author":"Leigh Bardugo",
+         "Tags":"Fantasy, Adventure, Romance",
+         "Paperbag":"$10.99",
+         "Pages":"416",
+         "ISBN13":"978-1250027436",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/shadowAndBone.jpg",
+         "BookId":8,
+         "BookStore":"https://www.barnesandnoble.com/w/shadow-and-bone-leigh-bardugo/1105622727?ean=9781250027436",
+         "BookSummary":"Soldier. Summoner. Saint. Orphaned and expendable, Alina Starkov is a soldier who knows she may not survive her first trek across the Shadow Fold―a swath of unnatural darkness crawling with monsters. But when her regiment is attacked, Alina unleashes dormant magic not even she knew she possessed. \nNow Alina will enter a lavish world of royalty and intrigue as she trains with the Grisha, her country’s magical military elite―and falls under the spell of their notorious leader, the Darkling. He believes Alina can summon a force capable of destroying the Shadow Fold and reuniting their war-ravaged country, but only if she can master her untamed gift. \nAs the threat to the kingdom mounts and Alina unlocks the secrets of her past, she will make a dangerous discovery that could threaten all she loves and the very future of a nation. \nWelcome to Ravka . . . a world of science and superstition where nothing is what it seems."
+      },
+	  {
+         "BookTitle":"Six of Crows, #1",
+         "Author":"Leigh Bardugo",
+         "Tags":"Fantasy, Adventure, Romance",
+         "Paperbag":"$11.99",
+         "Pages":"495",
+         "ISBN13":"978-1250076960",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/sixOfCrows.jpg",
+         "BookId":9,
+         "BookStore":"https://www.barnesandnoble.com/w/six-of-crows-leigh-bardugo/1120964159?ean=9781250076960",
+         "BookSummary":"Ketterdam: a bustling hub of international trade where anything can be had for the right price―and no one knows that better than criminal prodigy Kaz Brekker. Kaz is offered a chance at a deadly heist that could make him rich beyond his wildest dreams. But he can't pull it off alone. . . .\n A convict with a thirst for revenge.\n A sharpshooter who can't walk away from a wager. \n A runaway with a privileged past. \n A spy known as the Wraith. \n A Heartrender using her magic to survive the slums. \n A thief with a gift for unlikely escapes. \n Six dangerous outcasts. One impossible heist. Kaz's crew is the only thing that might stand between the world and destruction―if they don't kill each other first."
+      },
+	  {
+         "BookTitle":"The Inheritance Game",
+         "Author":"Jennifer Lynn Barnes",
+         "Tags":"Mystery, Adventure, Thriller",
+         "Paperbag":"$10.99",
+         "Pages":"400",
+         "ISBN13":"978-0759555402",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/theInheritanceGames.jpg",
+         "BookId":10,
+         "BookStore":"https://www.barnesandnoble.com/w/the-inheritance-games-jennifer-lynn-barnes/1136584326?ean=9780759555402",
+         "BookSummary":"Avery Grambs has a plan for a better future: survive high school, win a scholarship, and get out. But her fortunes change in an instant when billionaire Tobias Hawthorne dies and leaves Avery virtually his entire fortune. The catch? Avery has no idea why — or even who Tobias Hawthorne is. \n o receive her inheritance, Avery must move into sprawling, secret passage-filled Hawthorne House, where every room bears the old man's touch — and his love of puzzles, riddles, and codes. Unfortunately for Avery, Hawthorne House is also occupied by the family that Tobias Hawthorne just dispossessed. This includes the four Hawthorne grandsons: dangerous, magnetic, brilliant boys who grew up with every expectation that one day, they would inherit billions. Heir apparent Grayson Hawthorne is convinced that Avery must be a conwoman, and he's determined to take her down. His brother, Jameson, views her as their grandfather's last hurrah: a twisted riddle, a puzzle to be solved. Caught in a world of wealth and privilege, with danger around every turn, Avery will have to play the game herself just to survive."
+      },
+	  {
+         "BookTitle":"A Good Girl's Guide to Murder",
+         "Author":"Holly Jackson",
+         "Tags":"Mystery, Suspense, Thriller",
+         "Paperbag":"$10.99",
+         "Pages":"400",
+         "ISBN13":"978-1984896391",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/aGoodGirl'sGuideToMurder.jpg",
+         "BookId":11,
+         "BookStore":"https://www.barnesandnoble.com/w/a-good-girls-guide-to-murder-holly-jackson/1132077937?ean=9781984896391",
+         "BookSummary":"Everyone in Fairview knows the story. \n Pretty and popular high school senior Andie Bell was murdered by her boyfriend, Sal Singh, who then killed himself. It was all anyone could talk about. And five years later, Pip sees how the tragedy still haunts her town. \n But she can't shake the feeling that there was more to what happened that day. She knew Sal when she was a child, and he was always so kind to her. \n How could he possibly have been a killer? \n Now a senior herself, Pip decides to reexamine the closed case for her final project, at first just to cast doubt on the original investigation. But soon she discovers a trail of dark secrets that might actually prove Sal innocent . . . and the line between past and present begins to blur. Someone in Fairview doesn't want Pip digging around for answers, and now her own life might be in danger."
+      },
+	  {
+         "BookTitle":"They Both Die at the End",
+         "Author":"Adam Silvera",
+         "Tags":"LGBTQ+, Contemporary, Fantasy",
+         "Paperbag":"$12.99",
+         "Pages":"416",
+         "ISBN13":"978-0062457806",
+         "BookImage":"https://raw.githubusercontent.com/jpoudel99/JSONProjectsIT315/master/theyBothDieAtTheEnd.jpg",
+         "BookId":12,
+         "BookStore":"https://www.barnesandnoble.com/w/they-both-die-at-the-end-adam-silvera/1125317666?ean=9780062457806",
+         "BookSummary":"On September 5, a little after midnight, Death-Cast calls Mateo Torrez and Rufus Emeterio to give them some bad news: They’re going to die today. \n Mateo and Rufus are total strangers, but, for different reasons, they’re both looking to make a new friend on their End Day. The good news: There’s an app for that. It’s called the Last Friend, and through it, Rufus and Mateo are about to meet up for one last great adventure—to live a lifetime in a single day."
+      } 
+   ],
+   "Status":"OK"
+}
